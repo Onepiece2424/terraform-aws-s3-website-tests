@@ -1,3 +1,2 @@
-# Learn Terraform - Test
-
-This is the companion repo to the [Write Terraform Tests](https://developer.hashicorp.com/terraform/language/tests) tutorial.
+# 参考
+https://developer.hashicorp.com/terraform/tutorials/configuration-language/test
